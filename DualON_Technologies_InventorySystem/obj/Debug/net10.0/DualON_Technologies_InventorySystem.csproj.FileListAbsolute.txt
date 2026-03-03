@@ -213,3 +213,4 @@ C:\Users\Izakami\Documents\dev\DualON_Technologies_InventorySystem\DualON_Techno
 C:\Users\Izakami\Documents\dev\DualON_Technologies_InventorySystem\DualON_Technologies_InventorySystem\obj\Debug\net10.0\DualON_Technologies_InventorySystem.pdb
 C:\Users\Izakami\Documents\dev\DualON_Technologies_InventorySystem\DualON_Technologies_InventorySystem\obj\Debug\net10.0\DualON_Technologies_InventorySystem.genruntimeconfig.cache
 C:\Users\Izakami\Documents\dev\DualON_Technologies_InventorySystem\DualON_Technologies_InventorySystem\obj\Debug\net10.0\ref\DualON_Technologies_InventorySystem.dll
+C:\Users\Izakami\Documents\dev\DualON_Technologies_InventorySystem\DualON_Technologies_InventorySystem\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
