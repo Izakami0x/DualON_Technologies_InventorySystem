@@ -1,9 +1,11 @@
-var builder = WebApplication.CreateBuilder(args);
+//var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
 var app = builder.Build();
+
+//Console.WriteLine("EF Core Loaded");
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
