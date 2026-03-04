@@ -1,5 +1,7 @@
 ﻿using System.Collections.Generic;
 
+
+
 namespace DualON_Technologies_InventorySystem.Models
 {
     public class Product

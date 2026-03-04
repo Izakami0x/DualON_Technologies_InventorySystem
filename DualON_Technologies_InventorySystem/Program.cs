@@ -1,11 +1,16 @@
 using DualON_Technologies_InventorySystem.Data;
 using Microsoft.EntityFrameworkCore;
 
+using DualON_Technologies_InventorySystem.Repositories;
+using DualON_Technologies_InventorySystem.Repositories.Interfaces;
+
 var builder = WebApplication.CreateBuilder(args); // <-- this was missing
 
 // Configure SQLite
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlite("Data Source=inventory.db"));
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
 
 builder.Services.AddControllersWithViews();
 
