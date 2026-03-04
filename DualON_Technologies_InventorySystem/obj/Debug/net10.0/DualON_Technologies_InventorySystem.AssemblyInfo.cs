@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DualON_Technologies_InventorySystem")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db90779053b5249111f0756a3ebc49450b332d0b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3884677e2d33c34d93603bd037b5d6bd2422f88")]
 [assembly: System.Reflection.AssemblyProductAttribute("DualON_Technologies_InventorySystem")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DualON_Technologies_InventorySystem")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
